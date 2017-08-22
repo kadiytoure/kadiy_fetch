@@ -1,2 +1,2 @@
 # kadiy_fetch
-exercice: publier une lab sur NPM + GIT
+exercice: publier une LIB sur NPM + GIT
