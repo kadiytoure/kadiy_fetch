@@ -1,0 +1,27 @@
+{
+  "name": "kadiy_fetch",
+  "version": "0.0.1",
+  "description": "fetch API as a NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/kadiy_fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "API",
+    "NPM"
+  ],
+  "author": "kadiy simplon tourekadiy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/kadiy_fetch/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/kadiy_fetch#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
